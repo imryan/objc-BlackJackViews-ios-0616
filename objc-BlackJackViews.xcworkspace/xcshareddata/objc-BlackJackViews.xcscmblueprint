@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8CB46EAD549AED5B1973BCB5C7D44AAE605F1A91",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8CB46EAD549AED5B1973BCB5C7D44AAE605F1A91" : 0,
+    "641FD5DEDEB94195E97C4944DB777CF40D6E2963" : 0,
+    "74663A7B7EBA3A103285C19BBCA2617A8B951745" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "98D8882E-F180-418E-8C82-4170E54147B2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8CB46EAD549AED5B1973BCB5C7D44AAE605F1A91" : "objc-BlackJackViews-ios-0616\/",
+    "641FD5DEDEB94195E97C4944DB777CF40D6E2963" : "OOP-Cards-Model-ios-0616\/",
+    "74663A7B7EBA3A103285C19BBCA2617A8B951745" : "objc-BlackJack-ios-0616\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "objc-BlackJackViews",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "objc-BlackJackViews.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/imryan\/OOP-Cards-Model-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "641FD5DEDEB94195E97C4944DB777CF40D6E2963"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/imryan\/objc-BlackJack-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "74663A7B7EBA3A103285C19BBCA2617A8B951745"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/imryan\/objc-BlackJackViews-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8CB46EAD549AED5B1973BCB5C7D44AAE605F1A91"
+    }
+  ]
+}
